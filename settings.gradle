@@ -1,0 +1,2 @@
+include ':app', ':wkvideoplayer2'
+rootProject.name='Ampusta'

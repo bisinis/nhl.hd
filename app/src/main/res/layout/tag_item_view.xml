@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewTag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tag_backgr"
+        android:gravity="center_horizontal|center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingTop="3dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="3dp"
+        android:text="TAGS"
+        android:textColor="@android:color/background_light"
+        android:textSize="10sp" />
+</LinearLayout>

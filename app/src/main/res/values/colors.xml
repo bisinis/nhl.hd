@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#252A36</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bacground">#252A36</color>
+    <color name="forrgotText">#999CA0</color>
+    <color name="text">#999CA0</color>
+    <color name="color_login">#C0C6CA</color>
+    <color name="color_text">#DFEAEB</color>
+    <color name="color_view">#FFBBBDC7</color>
+    <color name="color_search_text">#838589</color>
+    <color name="color_turn_on_tab">#141A26</color>
+    <color name="color_tag">#FF404A56</color>
+    <color name="color_tag_text">#64C1C2C3</color>
+    <color name="color_button_text">#FFF7F1</color>
+
+    <color name="color_tag_backgr">#454A55</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

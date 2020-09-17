@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NHLHD.TV</string>
+    <string name="login_account">Login to your account</string>
+    <string name="login_user">Username</string>
+    <string name="login_passw">Password</string>
+    <string name="login_forgot">Forgot your password?</string>
+    <string name="login_but">Login</string>
+    <string name="search">Search</string>
+    <string name="menu_live_games">Live Games</string>
+    <string name="menu_live_channels">Live Channels</string>
+    <string name="menu_replays">Replays</string>
+    <string name="menu_add_grid">Multi Watch</string>
+    <string name="menu_show_me_live">Show Me Live Channels</string>
+    <string name="translation_game">Play game</string>
+    <string name="translation_exit">Exit</string>
+    <string name="translation_full_screen">Full screen</string>
+
+
+    <string name="error_max_links">Must be no more than 4 links</string>
+    <string name="error_min_links">You must select at least one link</string>
+    <string name="error_data_transfer">Data Transfer Error</string>
+    <string name="error_auth">Wrong login or password</string>
+    <string name="error_internet">Internet connection error</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
