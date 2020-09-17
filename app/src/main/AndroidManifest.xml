@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="nhl.hd.tv">
+    package="pk.ls.nflgame">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="nhl.hd.tv.SplashActivity">
+        <activity android:name="pk.ls.nflgame.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,14 +26,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="nhl.hd.tv.login.LoginActivity"
+            android:name="pk.ls.nflgame.login.LoginActivity"
             android:windowSoftInputMode="stateHidden" />
 
         <activity
-            android:name="nhl.hd.tv.menu.MenuActivity"
+            android:name="pk.ls.nflgame.menu.MenuActivity"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="nhl.hd.tv.translation.TranslationActivity3"
+            android:name="pk.ls.nflgame.translation.TranslationActivity3"
             android:configChanges="orientation|screenSize" />
     </application>
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NHLHD.TV</string>
+    <string name="app_name">NFLHD.TV</string>
     <string name="login_account">Login to your account</string>
     <string name="login_user">Username</string>
     <string name="login_passw">Password</string>
